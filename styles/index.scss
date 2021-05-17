@@ -67,7 +67,7 @@ body {
     width: 147px;
     position: absolute;
     top: 26px;
-    right: -34px;
+    right: -28px;
 
     display: none;
     justify-content: center;
@@ -130,7 +130,18 @@ body {
 
     border: 0;
     border-radius: 20px;
-    background-color: $color-green;
+
+    &_green {
+      background-color: $color-green;
+    }
+
+    &_blue {
+      background-color: $color-blue;
+    }
+
+    &_orange {
+      background-color: $color-orange;
+    }
   }
 }
 .options-list {
