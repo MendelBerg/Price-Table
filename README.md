@@ -1,6 +1,6 @@
-# Layout Sample Project
+# Price Table Project
 
-### https://mendelberg.github.io/project-2/
+### https://mendelberg.github.io/Price-Table/
 
 Layout with product prices
 
